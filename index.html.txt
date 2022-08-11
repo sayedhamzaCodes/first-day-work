@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>day 0</title>
+ 	</head>
+	<body>ss
+ 		<h1> hello world</h1>
+</body>
+ </html>
